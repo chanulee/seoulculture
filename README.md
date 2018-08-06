@@ -11,7 +11,7 @@
 
 - [inch_inch_inch](http://inchinchinch.com)
 
-- [IAB studio](http://iabstudio.com)
+- [IAB studio](http://iab-studio.com)
 
 - [O Y E](https://ohezin.kr)
 
@@ -22,13 +22,15 @@
 - [진달래박우혁 jin & park](http://jinandpark.com)
 
 - 양장점
-양장점의 양
-양장점의 장
+[양장점의 양](http://heejaeyang.tumblr.com)
+[양장점의 장](
 
 - 맛깔손
 
 - [우유니게](http://ooh-you.com)
 
 - [워크스 WORKS](http://work-s.org)
+
+- [양지은 zzz.jpg](http://cargocollective.com/yje)
 
 - 
