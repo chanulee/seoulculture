@@ -136,3 +136,7 @@
 - [라이즈 홍대](https://www.rysehotel.com/)
 - [땡스북스](thanksbooks.com/)
 - [취미가](http://www.taste-house.com)
+
+---
+(c) 2018 [chanu](krevony.com) ✨⚫
+all rights reserved.
