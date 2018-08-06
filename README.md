@@ -1,4 +1,4 @@
-# 스튜디오 서울 아카이브
+# SEOUL CULTURE
 ### 지금 서울의 문화적인 흐름
 
 - [선데이 5unday](http://www.5unday.com/) 
