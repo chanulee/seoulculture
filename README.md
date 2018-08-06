@@ -59,3 +59,46 @@
 - [언리미티드 에디션 unlimited edition](http://unlimited-edition.org)
 
 - [rebel9](http://rebel9.co.kr)
+
+- [취미가](http://www.taste-house.com)
+
+- [프로파간다](http://propa-ganda.co.kr/)
+
+- [6699프레스](http://6699press.kr)
+
+- [페미니스트 디자이너 소셜클럽 FDSC](
+
+- [탈영역 우정국](http://ujeongguk.com)
+
+- [땡스북스](thanksbooks.com/)
+
+- 구슬모아당구장(http://www.daelimmuseum.org/guseulmoa/)
+
+- [별책부록](http://www.byeolcheck.kr)
+
+- [시청각](http://audiovisualpavilion.org)
+
+- [사운즈 한남](http://project-sounds.com/)
+
+- [라이즈 홍대](https://www.rysehotel.com/)
+
+- [국립현대미술관](mmca.go.kr)
+
+- [오브젝트](http://objectlifelab.com)
+
+- [소소문구](sosomoongoo.com)
+
+- [워크룸 프레스](http://workroompress.kr)
+
+- [더 북 소사이어티](http://www.thebooksociety.org)
+
+- [미디어버스](https://mediabus.org)
+
+- [](
+
+-
+
+-
+
+
+
