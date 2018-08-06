@@ -77,9 +77,6 @@
 - [JOH](http://johcompany.com)
 
 
-- [piknic](http://www.piknic.kr)
-
-
 - [90apt](90apt.com)
 
 
@@ -94,7 +91,6 @@
 - [겨울엔 토스트 좋아](https://limpalimpa.com/)
 
 
-
 - [프로파간다](http://propa-ganda.co.kr/)
 
 
@@ -103,23 +99,7 @@
 
 - [페미니스트 디자이너 소셜클럽 FDSC](
 
-
-- [탈영역 우정국](http://ujeongguk.com)
-
-
-
-
-
 - [별책부록](http://www.byeolcheck.kr)
-
-
-
-- [사운즈 한남](http://project-sounds.com/)
-
-
-
-
-- [오브젝트](http://objectlifelab.com)
 
 - [소소문구](sosomoongoo.com)
 
@@ -136,6 +116,10 @@
 - [라이즈 홍대](https://www.rysehotel.com/)
 - [땡스북스](thanksbooks.com/)
 - [취미가](http://www.taste-house.com)
+- [사운즈 한남](http://project-sounds.com/)
+- [탈영역 우정국](http://ujeongguk.com)
+- [오브젝트](http://objectlifelab.com)
+- [piknic](http://www.piknic.kr)
 
 ---
 (c) 2018  
