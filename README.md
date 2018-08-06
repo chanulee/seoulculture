@@ -22,7 +22,7 @@
 - [진달래박우혁 jin & park](http://jinandpark.com)
 
 - [양장점](http://yang-jang.com)  
-[양장점의 양](http://heejaeyang.tumblr.com
+[양장점의 양](http://heejaeyang.tumblr.com)
 
 - 맛깔손
 
