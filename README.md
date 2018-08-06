@@ -5,15 +5,15 @@
 
 - [코우너스 corners](http://corners.kr)
 
-- [studio fnt](http://studiofnt.com)
+- [스튜디오 에프엔티 studio fnt](http://studiofnt.com)
 
-- [studio forest](http://studio-forest.kr)
+- [스튜디오 포레스트 studio forest](http://studio-forest.kr)
 
-- [inch_inch_inch](http://inchinchinch.com)
+- [차인철 인치인치인치 inch_inch_inch](http://inchinchinch.com)
 
-- [IAB studio](http://iab-studio.com)
+- [아이에이비/아이앱 스튜디오 IAB studio](http://iab-studio.com)
 
-- [O Y E](https://ohezin.kr)
+- [오혜진 O Y E](https://ohezin.kr)
 
 - [오늘의 풍경 scenery of today](http://sceneryoftoday.kr)
 
@@ -21,9 +21,9 @@
 
 - [진달래박우혁 jin & park](http://jinandpark.com)
 
-- 양장점
+- [양장점](http://yang-jang.com)
 [양장점의 양](http://heejaeyang.tumblr.com)
-[양장점의 장](
+양장점의 장
 
 - 맛깔손
 
@@ -33,4 +33,17 @@
 
 - [양지은 zzz.jpg](http://cargocollective.com/yje)
 
-- 
+- [마이케이씨 MYKC](mykc.kr)
+
+- 스튜디오 호호호 studio HOHOHO
+
+- [플러스 엑스 PlusX](plus-ex.com)
+
+- [타이포잔치 typojanchi](typojanchi.com)
+
+- [신모래 shinmorae](shinmorae.com)
+
+- [패브리커 Fabrikr](fabrikr.com)
+
+- [길종상가](http://bellroad.1px.kr)
+
