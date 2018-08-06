@@ -49,3 +49,5 @@
 - [햇빛서점](http://sunnystudio.kr)
 
 - [JOH](http://johcompany.com)
+
+- [piknic](http://www.piknic.kr)
