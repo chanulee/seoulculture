@@ -138,5 +138,6 @@
 - [취미가](http://www.taste-house.com)
 
 ---
-(c) 2018 [chanu](krevony.com) ✨⚫
-all rights reserved.
+(c) 2018  
+curated by [chanu](krevony.com) ✨⚫
+
