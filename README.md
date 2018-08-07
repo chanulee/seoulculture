@@ -40,10 +40,11 @@
 
 - 맛깔손
 
+- [안봐도비디오](https://obviouslyvideo.tumblr.com)
 
 - [우유니게](http://ooh-you.com)
 
-
+- [김괜저](http://gwenzhir.keithskim.com)
 - [워크스 WORKS](http://work-s.org)
 
 
