@@ -79,12 +79,9 @@
 
 - [90apt](90apt.com)
 
-
 - [유어마인드 your-mind](your-mind.com)
 
-
 - [언리미티드 에디션 unlimited edition](http://unlimited-edition.org)
-
 
 - [rebel9](http://rebel9.co.kr)
 
@@ -96,8 +93,7 @@
 
 - [6699프레스](http://6699press.kr)
 
-
-- [페미니스트 디자이너 소셜클럽 FDSC](
+- [페미니스트 디자이너 소셜클럽 FDSC](https://twitter.com/FemiDesigner)
 
 - [별책부록](http://www.byeolcheck.kr)
 
@@ -109,17 +105,30 @@
 
 - [미디어버스](https://mediabus.org)
 
+- [오브젝트](http://objectlifelab.com)
+
 ## 문화공간
 - [국립현대미술관](mmca.go.kr)
-- [시청각](http://audiovisualpavilion.org)
+
 - [구슬모아당구장](http://www.daelimmuseum.org/guseulmoa/)
-- [라이즈 홍대](https://www.rysehotel.com/)
-- [땡스북스](thanksbooks.com/)
-- [취미가](http://www.taste-house.com)
-- [사운즈 한남](http://project-sounds.com/)
+
 - [탈영역 우정국](http://ujeongguk.com)
-- [오브젝트](http://objectlifelab.com)
+
 - [piknic](http://www.piknic.kr)
+
+- [라이즈 홍대](https://www.rysehotel.com/)
+
+- [사운즈 한남](http://project-sounds.com/)
+
+- [땡스북스](thanksbooks.com/)
+
+- [취미가](http://www.taste-house.com)
+
+- [시청각](http://audiovisualpavilion.org)
+
+- [2/w](https://2w-seoul.tumblr.com)
+
+
 
 ---
 (c) 2018  
