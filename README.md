@@ -7,11 +7,11 @@
 
 - [코우너스 corners](http://corners.kr)
 
-- [스튜디오 에프엔티 studio fnt](http://studiofnt.com)
+- [studio fnt](http://studiofnt.com)
 
 - [스튜디오 포레스트 studio forest](http://studio-forest.kr)
 
-- [차인철 인치인치인치 inch_inch_inch](http://inchinchinch.com)
+- [차인철 inch_inch_inch](http://inchinchinch.com)
 
 - [아이에이비/아이앱 스튜디오 IAB studio](http://iab-studio.com)
 
