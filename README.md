@@ -38,15 +38,15 @@
 
 - [양지은 zzz.jpg](http://cargocollective.com/yje)
 
-- [마이케이씨 MYKC](mykc.kr)
+- [마이케이씨 MYKC](http://mykc.kr)
 
 - 스튜디오 호호호 studio HOHOHO
 
-- [플러스 엑스 PlusX](plus-ex.com)
+- [플러스 엑스 PlusX](http://plus-ex.com)
 
-- [신모래 shinmorae](shinmorae.com)
+- [신모래 shinmorae](http://shinmorae.com)
 
-- [패브리커 Fabrikr](fabrikr.com)
+- [패브리커 Fabrikr](http://fabrikr.com)
 
 - [길종상가](http://bellroad.1px.kr)
 
@@ -62,11 +62,11 @@
 
 - [페미니스트 디자이너 소셜클럽 FDSC](https://twitter.com/FemiDesigner)
 
-- [90apt](90apt.com)
+- [90apt](http://90apt.com)
 
 - [언리미티드 에디션 unlimited edition](http://unlimited-edition.org)
 
-- [타이포잔치 typojanchi](typojanchi.com)
+- [타이포잔치 typojanchi](http://typojanchi.com)
 
 - [안봐도비디오](https://obviouslyvideo.tumblr.com)
 
@@ -80,7 +80,7 @@
 
 - [더 북 소사이어티](http://www.thebooksociety.org)
 
-- [유어마인드 your-mind](your-mind.com)
+- [유어마인드 your-mind](http://your-mind.com)
 
 - [6699프레스](http://6699press.kr)
 
@@ -88,11 +88,11 @@
 
 - [오브젝트](http://objectlifelab.com)
 
-- [소소문구](sosomoongoo.com)
+- [소소문구](http://sosomoongoo.com)
 
 ## 문화공간
 
-- [국립현대미술관](mmca.go.kr)
+- [국립현대미술관](http://mmca.go.kr)
 
 - [구슬모아당구장](http://www.daelimmuseum.org/guseulmoa/)
 
@@ -100,11 +100,11 @@
 
 - [piknic](http://www.piknic.kr)
 
-- [라이즈 홍대](https://www.rysehotel.com/)
+- [라이즈 홍대](http://www.rysehotel.com/)
 
 - [사운즈 한남](http://project-sounds.com/)
 
-- [땡스북스](thanksbooks.com/)
+- [땡스북스](http://thanksbooks.com/)
 
 - [취미가](http://www.taste-house.com)
 
