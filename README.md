@@ -76,8 +76,6 @@
 
 - [타이포잔치 typojanchi](http://typojanchi.com)
 
-- [안봐도비디오](https://obviouslyvideo.tumblr.com)
-
 ## 출판 / 서점
 
 - [별책부록](http://www.byeolcheck.kr)
