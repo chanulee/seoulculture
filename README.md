@@ -1,12 +1,6 @@
 # SEOUL CULTURE
 ### 지금 서울의 문화적 흐름
 
-## 갓갓 너무 잘하는 회사
-
-- [SM]()
-
-- [현대카드]()
-
 ## 스튜디오
 
 - [선데이 5unday](http://www.5unday.com/)  
@@ -75,6 +69,8 @@
 - [언리미티드 에디션 unlimited edition](http://unlimited-edition.org)
 
 - [타이포잔치 typojanchi](http://typojanchi.com)
+
+- [ORGD](http://orgd.org) 
 
 ## 출판 / 서점
 
