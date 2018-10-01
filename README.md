@@ -6,15 +6,17 @@
 
 - [선데이 5unday](http://www.5unday.com/)  
 
+- [서울로]()
+
 - [코우너스 corners](http://corners.kr)
 
 - [studio fnt](http://studiofnt.com)
 
 - [스튜디오 포레스트 studio forest](http://studio-forest.kr)
 
-- [차인철 inch_inch_inch](http://inchinchinch.com)
+- [차인철](http://inchinchinch.com)
 
-- [아이에이비/아이앱 스튜디오 IAB studio](http://iab-studio.com)
+- [IAB studio](http://iab-studio.com)
 
 - [오혜진 O Y E](https://ohezin.kr)
 
@@ -71,7 +73,9 @@
 
 - [타이포잔치 typojanchi](http://typojanchi.com)
 
-- [ORGD](http://orgd.org) 
+- [ORGD open recent graphic design](http://orgd.org) 
+
+- [ATC art & technology conference](http://atcofficial.kr)
 
 ## 출판 / 서점
 
@@ -116,6 +120,8 @@
 - [시청각](http://audiovisualpavilion.org)
 
 - [2/w](https://2w-seoul.tumblr.com)
+
+- [공간41 gonggansail](http://www.facebook.com/gonggansail/)
 
 - [공간413](https://www.41-3.org)
 
