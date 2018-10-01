@@ -1,5 +1,6 @@
 # SEOUL CULTURE
 ### 지금 서울의 문화적 흐름
+그래픽 디자인을 중심으로 
 
 ## 스튜디오
 
@@ -95,6 +96,8 @@
 ## 문화공간
 
 - [국립현대미술관](http://mmca.go.kr)
+
+- [서울시립미술관](http://sema.seoul.go.kr)
 
 - [구슬모아당구장](http://www.daelimmuseum.org/guseulmoa/)
 
