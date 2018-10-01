@@ -6,7 +6,7 @@
 
 - [선데이 5unday](http://www.5unday.com/)  
 
-- [서울로]()
+- [서울로](http://morogado.computer)
 
 - [코우너스 corners](http://corners.kr)
 
