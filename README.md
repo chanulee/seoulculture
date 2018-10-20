@@ -43,6 +43,10 @@
 
 - [김괜저](http://gwenzhir.keithskim.com)
 
+- [프로파간다 propaganda](http://propa-ganda.co.kr)
+
+- [피그말리온 Pygmalion](https://pygmn.com)
+
 - [워크스 WORKS](http://work-s.org)
 
 - [양지은 zzz.jpg](http://cargocollective.com/yje)
