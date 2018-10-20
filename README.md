@@ -22,6 +22,8 @@
 
 - [둘셋 twothree](http://twothree.kr)
 
+- [신덕호 shin, dokho](http://shindokho.kr)
+
 - [오늘의 풍경 scenery of today](http://sceneryoftoday.kr)
 
 - [오디너리피플 Ordinarypeople](http://ordinarypeople.kr)
