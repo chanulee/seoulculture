@@ -33,6 +33,8 @@
 
 - 맛깔손
 
+- [윤예지 YETI](https://seeouterspace.com)
+
 - [모임별](http://byul.org)
 
 - [우유니게](http://ooh-you.com)
