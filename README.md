@@ -24,6 +24,8 @@
 
 - [신덕호 shin, dokho](http://shindokho.kr)
 
+- [우리들의 예스](http://ouryes.kr)
+
 - [오늘의 풍경 scenery of today](http://sceneryoftoday.kr)
 
 - [오디너리피플 Ordinarypeople](http://ordinarypeople.kr)
