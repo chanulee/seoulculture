@@ -79,7 +79,7 @@
 
 - [페미니스트 디자이너 소셜클럽 FDSC](https://twitter.com/FemiDesigner)
 
-- [90apt](http://90apt.com)
+- [90apt](https://90apt.tumblr.com)
 
 - [언리미티드 에디션 unlimited edition](http://unlimited-edition.org)
 
